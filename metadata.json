@@ -1,0 +1,6 @@
+{
+  "name": "ÆTHER",
+  "description": "An aesthetic anti-portfolio platform for designers and creatives to document unfinished processes, sketches, moodboards, failures, and creative progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
